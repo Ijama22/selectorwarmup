@@ -1,0 +1,14 @@
+#timmyturner {
+filter: saturate(500%) grayscale(100%) ;
+}
+
+#titletext {
+text-shadow: 2px 2px 4px gray;
+}
+
+h1~p {
+    box-shadow: 2px 2px 6px darkblue;
+}
+h1:hover {
+    background-color: darkred;
+}
